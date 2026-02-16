@@ -1,3 +1,5 @@
+#!/bin/bash
+
 autonmap () {
 
 RED='\033[1;31m'
@@ -48,3 +50,5 @@ fi
 # Limpieza
 rm -f scan_minrate_$ip scan_normal_$ip
 }
+
+autonmap "$@"
