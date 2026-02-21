@@ -20,7 +20,7 @@ El script sigue un flujo de trabajo lógico y automatizado:
 
 ```bash
 # Descargar el script
-wget [https://raw.githubusercontent.com/zilr4c/autonmap/main/autonmap.sh](https://raw.githubusercontent.com/zilr4c/autonmap/main/autonmap.sh)
+wget https://raw.githubusercontent.com/zilr4c/autonmap/main/autonmap.sh
 
 # Dar permisos de ejecución
 chmod +x autonmap.sh
